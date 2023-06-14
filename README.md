@@ -50,6 +50,7 @@
 ### Phishing
 | Date | Event | MetaSleuth Link |
 | :--- | :---: | ---------------:|
+| 2023.06.13 | [Demystifying Profit Sharing in Inferno Drainer](https://blocksecteam.medium.com/demystifying-profit-sharing-in-inferno-drainer-2e8a9afb974b) || 
 | 2023.04.28 | [Dust Phishing Scam](https://twitter.com/MetaSleuth/status/1651867346582003713) | |
 | 2023.04.17 | [Profit-sharing in phishing scams](https://twitter.com/MetaSleuth/status/1647810647152005120) | [🔗](https://metasleuth.io/report?report_id=8e22db2d295557bd23b45a9a0f0d1ada) |
 | 2023.03.31 | [Fake_Phishing66321 lured more than $10M in a short week](https://twitter.com/MetaSleuth/status/1641741859876900865) (follow-up [1](https://twitter.com/MetaSleuth/status/1643901208116224000), [2](https://twitter.com/MetaSleuth/status/1644261722059051008)) | [🔗](https://metasleuth.io/result/eth/0xb475fd8c0c08164b677cd48cd685adaafcfa68386764909e1601bb8b8df70306?source=aa850b99-7dde-44ec-8293-de0624ec1786), [🔗](https://metasleuth.io/result/eth/0xc818d42bcff714343df350d29087638f58ad2f15a0ff93c91b12e5313333a017?source=42aadd58-2c1e-4a36-b248-9ac5d44861f5) | 
